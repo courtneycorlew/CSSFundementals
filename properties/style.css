@@ -1,0 +1,25 @@
+body {
+  background-color: whitesmoke;
+}
+
+.box {
+  margin: 5px;
+  padding: 5px;
+  border: 2px solid black;
+}
+
+.outer {
+  width: 60%;
+  height: 600px;;
+  background-color: aqua;
+  margin: 0 auto;
+}
+
+.inner {
+  width: 50%;
+  margin: 0 auto;
+  height: 100px;
+  margin-top: 10px;
+  background-color: pink;
+  border-radius: 100%;
+}
