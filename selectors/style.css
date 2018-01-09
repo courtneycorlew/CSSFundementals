@@ -5,3 +5,34 @@ body {
 p {
   font-family: sans-serif;
 }
+#one {
+  color: blue;
+}
+
+#two {
+  color: white;
+}
+
+#three {
+  color: green;
+}
+
+#four {
+  color: pink;
+}
+
+.bordered {
+  border: 2px solid whitesmoke;
+}
+
+.background-black {
+  background-color: black;
+}
+
+.widthSmaller {
+  width: 300px;
+}
+
+.transformText {
+  text-transform: uppercase;
+}
