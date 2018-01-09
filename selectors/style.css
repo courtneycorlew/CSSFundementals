@@ -4,8 +4,23 @@ body {
 
 p {
   font-family: sans-serif;
+  color: white;
 }
-#one {
+
+p:hover {
+  border: 2px solid black;
+  background: white;
+  color: coral;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+
+
+
+
+
+/* #one {
   color: blue;
 }
 
@@ -35,4 +50,4 @@ p {
 
 .transformText {
   text-transform: uppercase;
-}
+} */
