@@ -10,7 +10,7 @@ body {
 
 .outer {
   width: 60%;
-  height: 600px;;
+  height: 100%;
   background-color: aqua;
   margin: 0 auto;
 }
